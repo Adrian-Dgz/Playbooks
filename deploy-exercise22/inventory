@@ -1,0 +1,7 @@
+[controlnode]
+localhost
+
+[intranetweb]
+vm-17-node1-ansible.example.com
+vm-17-node2-ansible.example.com
+
