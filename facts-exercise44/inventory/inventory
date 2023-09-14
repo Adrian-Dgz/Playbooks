@@ -1,0 +1,8 @@
+[control]
+localhost ansible_connection=local
+
+[webserver]
+vm-17-node1-ansible.example.com
+vm-17-node2-ansible.example.com
+
+
